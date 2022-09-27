@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaRevier.iml" filepath="$PROJECT_DIR$/JavaRevier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReview.iml" filepath="$PROJECT_DIR$/JavaReview.iml" />
     </modules>
   </component>
 </project>
