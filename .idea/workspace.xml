@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b26c41-7c53-412e-8ecf-e9fd6687dde0" name="Changes" comment="工作区修改">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day01/CrapsGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a1b26c41-7c53-412e-8ecf-e9fd6687dde0" name="Changes" comment="配置文件修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +101,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664289644337</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Craps游戏">
+      <created>1664373109617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664373109617</updated>
+    </task>
+    <task id="LOCAL-00005" summary="配置文件修改">
+      <created>1664373142993</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664373142993</updated>
+    </task>
+    <task id="LOCAL-00006" summary="配置文件修改">
+      <created>1664373158018</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664373158019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +140,8 @@
     <MESSAGE value="修改了项目名称" />
     <MESSAGE value="优化代码" />
     <MESSAGE value="工作区修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="工作区修改" />
+    <MESSAGE value="Craps游戏" />
+    <MESSAGE value="配置文件修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置文件修改" />
   </component>
 </project>
