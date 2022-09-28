@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b26c41-7c53-412e-8ecf-e9fd6687dde0" name="Changes" comment="配置文件修改">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="a1b26c41-7c53-412e-8ecf-e9fd6687dde0" name="Changes" comment="配置文件修改" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664373158019</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="说明文件编辑">
+      <created>1664373495084</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664373495084</updated>
+    </task>
+    <task id="LOCAL-00008" summary="配置文件修改">
+      <created>1664373508299</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664373508299</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,7 +152,9 @@
     <MESSAGE value="优化代码" />
     <MESSAGE value="工作区修改" />
     <MESSAGE value="Craps游戏" />
+    <MESSAGE value="说明文件编辑" />
     <MESSAGE value="配置文件修改" />
     <option name="LAST_COMMIT_MESSAGE" value="配置文件修改" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
